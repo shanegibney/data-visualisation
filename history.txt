@@ -1,0 +1,512 @@
+    1  sudo apt-get update
+    2  ls
+    3  cd Desktop/
+    4  ls
+    5  sudo apt-get curl
+    6  sudo apt-get install curl
+    7  \curl -L htpps://get/.rvm.io | bash -s stable
+    8  \curl -L htpp://get/.rvm.io | bash -s stable
+    9  \curl -L https://get/.rvm.io | bash -s stable
+   10  \curl -L https://get.rvm.io | bash -s stable
+   11  ls
+   12  cd Pictures/
+   13  ls
+   14  open Screenshot\ from\ 2021-10-25\ 21-50-48.png 
+   15  source ~/.rvm/scripts/rvm
+   16  \curl -L https://get.rvm.io | bash -s stable
+   17  ls
+   18  -s -a
+   19  ls -a
+   20  cd .rvm
+   21  ls
+   22  sudo apt-get update
+   23  sudo apt-get upgrade 
+   24  sudo apt-get install curl
+   25  ccbbb\curl -sSL https://get.rvm.io | bash -s stable --rails
+   26  \curl -sSL https://get.rvm.io | bash -s stable --rails
+   27  curl -sSL https://rvm.io/mpapis.asc | gpg --import -
+   28  curl -sSL https://rvm.io/pkuczynski.asc | gpg --import -
+   29  ccbbb\curl -sSL https://get.rvm.io | bash -s stable --rails
+   30  \curl -sSL https://get.rvm.io | bash -s stable --rails
+   31  rvm -v
+   32  rvm --version
+   33  rvm -version
+   34  rvm -v
+   35  rvm list unknown
+   36  \curl -sSL https://get.rvm.io | bash -s stable --rails
+   37  source ~/.rvm/scripts/rvm
+   38  rvm list unknown
+   39  rvm list known
+   40  rvm list
+   41  rvm list known
+   42  mkdir rvmprojects
+   43  ls
+   44  rvm list known
+   45  cd rvmprojects/
+   46  ls
+   47  rvm list known
+   48  exit
+   49  sudo apt-get update
+   50  sudo apt-get upgrade
+   51  sudo apt-get autoremove
+   52  \curl -sSL https://get.rvm.io | bash -s stable --rails
+   53  source ~/.rvm/scripts/rvm
+   54  rvm -v
+   55  rvm install ruby
+   56  ruby -v
+   57  rvm -v
+   58  ruby -v
+   59  gem update --system
+   60  gem install nundler
+   61  rvm -v
+   62  gem install bundler
+   63  gem install rails
+   64  gem install nokogirl
+   65  gem install nokogiri
+   66  sudo apt install nodejs
+   67  node -v
+   68  V
+   69  or copy-pasting
+   70  sudo apt-cache show nodejs
+   71  node -
+   72  node -v
+   73  sudo apt install nodejs
+   74  node --version
+   75  node -v
+   76  nodejs 
+   77  npm -v
+   78  npm --version
+   79  l
+   80  cd Downloads/
+   81  ls
+   82  cd
+   83  sudo alien ~/Downloads/
+   84  sudo alien ~/Downloads/atom.x86_64.rpm 
+   85  sudo alien -i ~/Downloads/atom.x86_64.rpm 
+   86  sudo alien ~/Downloads/atom.x86_64.rpm 
+   87  sudo: alien: command not found
+   88  apt-get install alien
+   89  sudo apt-get install alien
+   90  sudo alien ~/Downloads/atom.x86_64.rpm 
+   91  sudo apt-get install git
+   92  git init
+   93  rails new example
+   94  sudo apt install ruby-railties
+   95  rails new example
+   96  bundle install
+   97  history |grep gem
+   98  ruby install rub6
+   99  ruby install ruby-bundler
+  100  sudo apt install ruby-bundler
+  101  rails new example
+  102  ls
+  103  cd example/
+  104  ls
+  105  rails new maths generator
+  106  ls
+  107  cd
+  108  ls
+  109  cd example/
+  110  cd
+  111  ls
+  112  bundle install
+  113  rails new maths generator
+  114  rails webpacker:install
+  115  ls
+  116  rails new maths generator
+  117  ls
+  118  cd maths
+  119  mkdir level3 maths
+  120  ls
+  121  cd maths
+  122  mkdir level3maths
+  123  cd level3maths/
+  124  echo 'blah ' -> index.latex
+  125  ls
+  126  cat index.latex 
+  127  documentclass[12pt]{article}
+  128  \usepackage{lingmacros}
+  129  \usepackage{tree-dvips}
+  130  \begin{document}
+  131  \section*{Notes for My Paper}
+  132  Don't forget to include examples of topicalization.
+  133  They look like this:
+  134  {\small
+  135  \enumsentence{Topicalization from sentential subject:\\ 
+  136  \shortex{7}{a John$_i$ [a & kltukl & [el & 
+  137    {\bf l-}oltoir & er & ngii$_i$ & a Mary]]}
+  138  { & {\bf R-}clear & {\sc comp} & 
+  139    {\bf IR}.{\sc 3s}-love   & P & him & }
+  140  {John, (it's) clear that Mary loves (him).}}
+  141  }
+  142  \subsection*{How to handle topicalization}
+  143  I'll just assume a tree structure like (\ex{1}).
+  144  {\small
+  145  \enumsentence{Structure of A$'$ Projections:\\ [2ex]
+  146  \documentclass[12pt]{article}
+  147  \usepackage{lingmacros}
+  148  \usepackage{tree-dvips}
+  149  \begin{document}
+  150  \section*{Notes for My Paper}
+  151  Don't forget to include examples of topicalization.
+  152  They look like this:
+  153  {\small
+  154  \enumsentence{Topicalization from sentential subject:\\ 
+  155  \shortex{7}{a John$_i$ [a & kltukl & [el & 
+  156    {\bf l-}oltoir & er & ngii$_i$ & a Mary]]}
+  157  { & {\bf R-}clear & {\sc comp} & 
+  158    {\bf IR}.{\sc 3s}-love   & P & him & }
+  159  {John, (it's) clear that Mary loves (him).}}
+  160  }
+  161  \subsection*{How to handle topicalization}
+  162  I'll just assume a tree structure like (\ex{1}).
+  163  {\small
+  164  \enumsentence{Structure of A$'$ Projections:\\ [2ex]
+  165  \begin{tabular}[t]{cccc}
+  166  \end{tabular}
+  167  \nodeconnect{i}{ii}
+  168  \nodeconnect{i}{iii}
+  169  \nodeconnect{iii}{iv}
+  170  \nodeconnect{iii}{v}
+  171  }
+  172  \subsection*{Mood}
+  173  Mood changes when there is a topic, as well as when
+  174  there is WH-movement.  \emph{Irrealis} is the mood when
+  175  there is a non-subject topic or WH-phrase in Comp.
+  176  \emph{Realis} is the mood when there is a subject topic
+  177  or WH-phrase.
+  178  \end{document}
+  179  echo '\documentclass[12pt]{article}
+  180  \usepackage{lingmacros}
+  181  \usepackage{tree-dvips}
+  182  \begin{document}
+  183  \section*{Notes for My Paper}
+  184  Don't forget to include examples of topicalization.
+  185  They look like this:
+  186  {\small
+  187  \enumsentence{Topicalization from sentential subject:\\ 
+  188  \shortex{7}{a John$_i$ [a & kltukl & [el & 
+  189  { & {\bf R-}clear & {\sc comp} & 
+  190  {John, (it's) clear that Mary loves (him).}}
+  191  }
+  192  \subsection*{How to handle topicalization}
+  193  I'll just assume a tree structure like (\ex{1}).
+  194  {\small
+  195  \enumsentence{Structure of A$'$ Projections:\\ [2ex]
+  196  \begin{tabular}[t]{cccc}
+  197      & \node{i}{CP}\\ [2ex]
+  198      \node{ii}{Spec} &   &\node{iii}{C$'$}\\ [2ex]
+  199  \end{tabular}
+  200  \nodeconnect{i}{ii}
+  201  \nodeconnect{i}{iii}
+  202  \nodeconnect{iii}{iv}
+  203  \nodeconnect{iii}{v}
+  204  }
+  205  \subsection*{Mood}
+  206  Mood changes when there is a topic, as well as when
+  207  there is WH-movement.  \emph{Irrealis} is the mood when
+  208  there is a non-subject topic or WH-phrase in Comp.
+  209  \emph{Realis} is the mood when there is a subject topic
+  210  or WH-phrase.
+  211  \end{document}
+  212  echo '\documentclass[12pt]{article}
+  213  \usepackage{lingmacros}
+  214  \usepackage{tree-dvips}
+  215  \begin{document}
+  216  \section*{Notes for My Paper}
+  217  Don't forget to include examples of topicalization.
+  218  They look like this:
+  219  {\small
+  220  \enumsentence{Topicalization from sentential subject:\\ 
+  221  \shortex{7}{a John$_i$ [a & kltukl & [el & 
+  222  { & {\bf R-}clear & {\sc comp} & 
+  223  {John, (it's) clear that Mary loves (him).}}
+  224  }
+  225  \subsection*{How to handle topicalization}
+  226  I'll just assume a tree structure like (\ex{1}).
+  227  {\small
+  228  \enumsentence{Structure of A$'$ Projections:\\ [2ex]
+  229  \begin{tabular}[t]{cccc}
+  230      & \node{i}{CP}\\ [2ex]
+  231      \node{ii}{Spec} &   &\node{iii}{C$'$}\\ [2ex]
+  232  \end{tabular}
+  233  \nodeconnect{i}{ii}
+  234  \nodeconnect{i}{iii}
+  235  \nodeconnect{iii}{iv}
+  236  \nodeconnect{iii}{v}
+  237  }
+  238  \subsection*{Mood}
+  239  Mood changes when there is a topic, as well as when
+  240  there is WH-movement.  \emph{Irrealis} is the mood when
+  241  there is a non-subject topic or WH-phrase in Comp.
+  242  \emph{Realis} is the mood when there is a subject topic
+  243  or WH-phrase.
+  244  \end{document}
+  245  \documentclass[12pt]{article}
+  246  \usepackage{lingmacros}
+  247  \usepackage{tree-dvips}
+  248  \begin{document}
+  249  \section*{Notes for My Paper}
+  250  Don't forget to include examples of topicalization.
+  251  They look like this:
+  252  {\small
+  253  \enumsentence{Topicalization from sentential subject:\\ 
+  254  \shortex{7}{a John$_i$ [a & kltukl & [el & 
+  255    {\bf l-}oltoir & er & ngii$_i$ & a Mary]]}
+  256  { & {\bf R-}clear & {\sc comp} & 
+  257    {\bf IR}.{\sc 3s}-love   & P & him & }
+  258  {John, (it's) clear that Mary loves (him).}}
+  259  }
+  260  \subsection*{How to handle topicalization}
+  261  I'll just assume a tree structure like (\ex{1}).
+  262  {\small
+  263  \enumsentence{Structure of A$'$ Projections:\\ [2ex]
+  264  \begin{tabular}[t]{cccc}
+  265  \end{tabular}
+  266  \nodeconnect{i}{ii}
+  267  \nodeconnect{i}{iii}
+  268  \nodeconnect{iii}{iv}
+  269  \nodeconnect{iii}{v}
+  270  }
+  271  \subsection*{Mood}
+  272  Mood changes when there is a topic, as well as when
+  273  there is WH-movement.  \emph{Irrealis} is the mood when
+  274  there is a non-subject topic or WH-phrase in Comp.
+  275  \emph{Realis} is the mood when there is a subject topic
+  276  or WH-phrase.
+  277  \end{document}
+  278  ls
+  279  \documentclass[12pt]{article}
+  280  \usepackage{lingmacros}
+  281  \usepackage{tree-dvips}
+  282  \begin{document}
+  283  \section*{Notes for My Paper}
+  284  Don't forget to include examples of topicalization.
+  285  They look like this:
+  286  {\small
+  287  \enumsentence{Topicalization from sentential subject:\\ 
+  288  \shortex{7}{a John$_i$ [a & kltukl & [el & 
+  289    {\bf l-}oltoir & er & ngii$_i$ & a Mary]]}
+  290  { & {\bf R-}clear & {\sc comp} & 
+  291    {\bf IR}.{\sc 3s}-love   & P & him & }
+  292  {John, (it's) clear that Mary loves (him).}}
+  293  }
+  294  \subsection*{How to handle topicalization}
+  295  I'll just assume a tree structure like (\ex{1}).
+  296  {\small
+  297  \enumsentence{Structure of A$'$ Projections:\\ [2ex]
+  298  \begin{tabular}[t]{cccc}
+  299  \end{tabular}
+  300  \nodeconnect{i}{ii}
+  301  \nodeconnect{i}{iii}
+  302  \nodeconnect{iii}{iv}
+  303  \nodeconnect{iii}{v}
+  304  }
+  305  \subsection*{Mood}
+  306  Mood changes when there is a topic, as well as when
+  307  there is WH-movement.  \emph{Irrealis} is the mood when
+  308  there is a non-subject topic or WH-phrase in Comp.
+  309  \emph{Realis} is the mood when there is a subject topic
+  310  or WH-phrase.
+  311  \end{document}
+  312  ls
+  313  atom index.latex 
+  314  cat index.latex 
+  315  mkdir src
+  316  echo 'latex index.latex' src
+  317  ls
+  318  cd src
+  319  ls
+  320  echo '/home/shane/maths/level3/'/latex index.latex' src
+  321  ls
+  322  ls
+  323  touch src
+  324  ls
+  325  cd
+  326  cd maths/
+  327  ls
+  328  cd maths/
+  329  touch maths3N0819.latex
+  330  atom maths3N0819.latex 
+  331  la
+  332  3N0929
+  333  gem install rails
+  334  ls
+  335  sudo apt-get update
+  336  dudo install postgresql lipq-dev
+  337  dudo install postgresql -11lipq-dev
+  338  dudo install postgresql-11 lipq-dev
+  339  ls
+  340  mkdir vizhub
+  341  ls
+  342  cd vizhub/
+  343  ls
+  344  cd vizhub/
+  345  ls
+  346  unzip Fork\ of\ HTML\ Starter.zip 
+  347  ls
+  348  npm install
+  349  npm build
+  350  ls
+  351  history 
+  352  npm run build
+  353  ls
+  354  cd vizhub/
+  355  ls
+  356  cat index.html 
+  357  atom index.html 
+  358  cat bundle.js
+  359  ls
+  360  cat index.js 
+  361  ls
+  362  npm run build
+  363  http-server 
+  364  top
+  365  ls
+  366  atom index.html 
+  367  atom bundle.js
+  368  cd vizhub/
+  369  ls
+  370  npm build
+  371  npm install
+  372  npm install -g npm
+  373  sudo npm install -g npm
+  374  npm run build
+  375  ls
+  376  git init
+  377  ls
+  378  ls -a
+  379  cay index.js 
+  380  cat index.js 
+  381  cat index.html 
+  382  ls
+  383  rm -rf Fork\ of\ HTML\ Starter.zip 
+  384  ls
+  385  http-server
+  386  npm install --global http-server
+  387  http-server
+  388  sudo npm install --global http-server
+  389  http-server
+  390  ls
+  391  http-server
+  392  ls
+  393  npm run build
+  394  http-server
+  395  ls
+  396  cat index.html 
+  397  atom index.js 
+  398  npm run build
+  399  http-server
+  400  atom index.html 
+  401  atom bundle.js
+  402  atom index.html 
+  403  atom index.js 
+  404  npm run build
+  405  http-server
+  406  ls
+  407  atom index.js 
+  408  npm run build
+  409  http-server
+  410  atom index.js 
+  411  atom index.html 
+  412  atom bundle.js
+  413  atom index.html 
+  414  atom bundle.js
+  415  atom index.js 
+  416  http-server
+  417  atom index.js 
+  418  atom index.html 
+  419  atom bundle.js
+  420  http-server
+  421  ls
+  422  npm run build
+  423  http-server
+  424  atom index.js 
+  425  atom index.html 
+  426  atom bundle.js
+  427  npm run build
+  428  http-server
+  429  ls
+  430  atom  bundle.js.map 
+  431  npm run build
+  432  http-server
+  433  atom  bundle.js.map 
+  434  npm run build
+  435  http-server
+  436  atom bundle.js
+  437  npm run build
+  438  http-server
+  439  ;ls
+  440  ls
+  441  clear
+  442  ls
+  443  atom  bundle.js.map 
+  444  npm run build
+  445  http-server
+  446  ls
+  447  npm run build
+  448  http-server
+  449  ls
+  450  atom  bundle.js.map 
+  451  atom index.js 
+  452  atom index.html 
+  453  atom bundle.js
+  454  npm run build
+  455  http-server
+  456  history 
+  457  at bundle.js
+  458  cat bundle.js
+  459* atom bundle.j
+  460  cat index.html 
+  461  l
+  462  ls
+  463  cd vizhub/
+  464  ls
+  465  history 
+  466  cat index.js
+  467  history 
+  468  cat bundle.js
+  469  cat bundle.js.map 
+  470  npm run build
+  471  http-server
+  472  ls
+  473  cat index.html 
+  474  cat i
+  475  ls
+  476  cat index.js 
+  477  cat bundle.js
+  478  cat bundle.js.map 
+  479  ls
+  480  http-server
+  481  ls
+  482  atom index.js 
+  483  http-server
+  484  npm run build
+  485  http-server
+  486  ls
+  487  atom index.js 
+  488  http-server
+  489  atom index.js.map
+  490  atom bundle.js
+  491  npm run build
+  492  atom bundle.js
+  493  npm run build
+  494  http-server
+  495  ls
+  496  atom index.js,map
+  497  http-server
+  498  npm run build
+  499  http-server
+  500  ls
+  501  atom index.js
+  502  npm run build
+  503  http-server
+  504  clear
+  505  ls
+  506  atom index.html 
+  507  atom bundle.js
+  508  http-server
+  509  npm run build
+  510  http-server
+  511  ls
+  512  history > history.txt

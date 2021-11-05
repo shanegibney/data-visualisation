@@ -1,0 +1,1 @@
+{"version":3,"file":"bundle.js","sources":["index.js"],"sourcesContent":["import{ select} from 'd3';\nd3.select('body').text('iindex.js elloss');\n"],"names":[],"mappings":";;;CACA,EAAE,CAAC,MAAM,CAAC,MAAM,CAAC,CAAC,IAAI,CAAC,kBAAkB,CAAC;;;;;;"}
